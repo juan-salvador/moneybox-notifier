@@ -1,0 +1,14 @@
+{
+  "name": "moneybox-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "current-week-number": "^1.0.7"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.614.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
